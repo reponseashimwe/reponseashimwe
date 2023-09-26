@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reponse Ashimwe</h1>
-<h3 align="center">With a keen eye for detail and a love for problem-solving, I'm on a mission to make the digital world a better place, one line of code at a time. I thrive on turning complex challenges into elegant solutions, and I'm not afraid to dive into both the front-end and back-end of web development. <br> When I'm not immersed in code, you can find me exploring the rich culture and natural beauty of Rwanda, or savoring a cup of our world-famous Rwandan coffee. I'm also a firm believer in work-life balance, so I enjoy spending quality time with family and friends.</h3>
+<p>With a keen eye for detail and a love for problem-solving, I'm on a mission to make the digital world a better place, one line of code at a time. I thrive on turning complex challenges into elegant solutions, and I'm not afraid to dive into both the front-end and back-end of web development. </p> <p>When I'm not immersed in code, you can find me exploring the rich culture and natural beauty of Rwanda, or savoring a cup of our world-famous Rwandan coffee. I'm also a firm believer in work-life balance, so I enjoy spending quality time with family and friends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reponseashimwe&label=Profile%20views&color=0e75b6&style=flat" alt="reponseashimwe" /> </p>
 
